@@ -8,4 +8,4 @@ API respone and html
 node server.js
 ```
 ![Screenshot](Screenshot.png)
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot2.png)
